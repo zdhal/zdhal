@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 备忘录
- 📫 [http](https://myfristlog.buzz/) 
+ 博客📫 [https://myfristlog.buzz/]
 <!--
 **zdhal/zdhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
